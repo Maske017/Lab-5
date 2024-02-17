@@ -1,2 +1,3 @@
-# Lab-5
-Repository for Lab Assignment 5
+# labAssignment_5
+
+Build: gcc lab_assignment_5.c
